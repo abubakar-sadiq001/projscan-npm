@@ -1,0 +1,24 @@
+{
+  "name": "projscan-cli",
+  "version": "1.0.0",
+  "description": "Install the ProjScan CLI tool",
+  "homepage": "https://github.com/abubakar-sadiq001/projscan#readme",
+  "bin": {
+    "projscan": "bin/projscan"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "dependencies": {
+    "tar": "^7.4.3"
+  },
+  "files": [
+    "bin",
+    "install.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abubakar-sadiq001/projscan-npm"
+  }
+}
