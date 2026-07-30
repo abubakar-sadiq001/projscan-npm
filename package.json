@@ -1,6 +1,6 @@
 {
   "name": "projscan-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install the ProjScan CLI tool",
   "homepage": "https://github.com/abubakar-sadiq001/projscan#readme",
   "bin": {
